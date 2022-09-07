@@ -20,7 +20,7 @@ nltk.download()
 # nltk.download('stopwords')
 # nltk.download('punkt')
 from wordcloud import WordCloud
-api_key = 'AIzaSyDdmLezdHwTA996Hch-Xy9Qes1zRPcTH-Q'
+# api_key = ''
 # channel_ids = ['UCqkeU8psATW3SP_xhgeeN8A','DOHOMECHANNEL','Globalhousethai','NocNocTH','homeprothai']
 channel_ids = ['UCqkeU8psATW3SP_xhgeeN8A',"UC_x5XG1OV2P6uZZ5FSM9Ttw"] #Google developer and Thaiwatsadu
 # channel_ids = ['UCoOae5nYA7VqaXzerajD0lg'] #Ali
