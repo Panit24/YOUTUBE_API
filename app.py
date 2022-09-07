@@ -1,4 +1,3 @@
-from re import A
 from urllib import request
 from googleapiclient.discovery import build
 import pandas as pd
